@@ -1,0 +1,70 @@
+.heading
+{
+width: 100%;
+text-align: left;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+font-size: 19px;
+font-weight: bold;
+color:white;
+text-align: center;
+border-radius: 3px;
+border-color: aquamarine;
+border-style: ridge;
+border-width: 3px;
+
+}
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start
+{
+font-size: 22px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+}
+#status
+{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#restart
+{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h4
+{
+   background-color: rgb(224, 127, 187);
+   color:white;
+   line-height: 2;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: italic;
+   font-size:20px;
+  
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
